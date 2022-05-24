@@ -1,0 +1,3 @@
+C:\Users\Дом\Desktop\Калькулятор градусов\Калькулятор градусов\Debug\Калькулятор градусов.vcxproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\Калькулятор градусов\Калькулятор градусов\Debug\Калькуляторградусов.MyForm.resources
+C:\Users\Дом\Desktop\Калькулятор градусов\Калькулятор градусов\Debug\Калькулятор градусов.vcxproj.GenerateResource.cache
